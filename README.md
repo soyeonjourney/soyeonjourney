@@ -1,12 +1,10 @@
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tequila-Sunrise/Image-Hosting/main/Tequila-Sunrise/steve.gif" width="150"/>
   <div>
     <img src="https://komarev.com/ghpvc/?username=Tequila-Sunrise&style=flat&color=268f77" alt=""/>
   </div>
   <h1>
-    Hey, Steve there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey, Steve there 👋
   </h1>
   <h3>
     We're here to make a dent in the universe.
