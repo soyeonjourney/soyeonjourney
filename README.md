@@ -1,7 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tequila-Sunrise/Image-Hosting/main/Tequila-Sunrise/steve.gif" width="150"/>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=Tequila-Sunrise&style=flat&color=268f77" alt=""/>
+    <a>
+      <img src="https://wakatime.com/badge/user/e07076f3-a080-4a9d-80b5-3aa7be5edb77.svg" alt="Total time coded since Oct 12 2021" />
+    </a>
+    <a>
+      <img src="https://komarev.com/ghpvc/?username=Tequila-Sunrise&style=flat&color=268f77" alt=""/>
+    </a>
   </div>
   <h1>
     Hey, Steve there 👋
