@@ -11,29 +11,27 @@
   <h3>
     We're here to make a dent in the universe.
   </h3>
+  <img width=420 src="https://github-readme-streak-stats.herokuapp.com?user=Tequila-Sunrise&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&" alt="GitHub Streak" />
 </div>
 
 ### 🧘‍♂️ About Me
 
-BS, Data Science @ Fudan University
+B.Sc. Student, Data Science @ Fudan University
 
-- :seedling: I’m currently learning Bandits and Online Learning
-- :zap: 
-
-<div align="center">
-  <img width=420 src="https://github-readme-stats.vercel.app/api?username=Tequila-Sunrise&theme=gotham&count_private=true&show_icons=true&hide_border=false&hide_title=true&border_radius=3" alt="GitHub Stats" />
-</div>
+- 🔬 Currently indulged in Bandits and Online Learning.
+- 🌱 I am further learning algorithms recently and wanna participate in product development within half a year.
+- 🔭 My life is like reinforcement learning, I am enjoying the journey of exploration and exploitation.
 
 ---
 
 ### 🔥 My Stats
 
 <div align="center">
-  <img width=420 src="https://github-readme-streak-stats.herokuapp.com?user=Tequila-Sunrise&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&" alt="GitHub Streak" />
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=Tequila-Sunrise&theme=gotham&count_private=true&show_icons=true&hide_border=false&hide_title=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tequila-Sunrise&theme=gotham&count_private&exclude_repo=Tequila-Sunrise.github.io&langs_count=8&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=3" alt="Top Langs" />
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tequila-Sunrise&theme=gotham&count_private&exclude_repo=Tequila-Sunrise.github.io&langs_count=8&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
 </div>
 
 ---
@@ -41,9 +39,6 @@ BS, Data Science @ Fudan University
 ### 🛠️ Languages and Tools
 
 <div>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="30" height="30"/>
   </a>
@@ -56,9 +51,6 @@ BS, Data Science @ Fudan University
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="30" height="30"/>
   </a>
-  <a href="hexo.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="30" height="30"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/>
   </a>
@@ -70,9 +62,6 @@ BS, Data Science @ Fudan University
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="30" height="30"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
