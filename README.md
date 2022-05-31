@@ -14,7 +14,7 @@
   <h3>
     We're here to make a dent in the universe.
   </h3>
-  <img width=420 src="https://github-readme-streak-stats.herokuapp.com?user=Tequila-Sunrise&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&" alt="GitHub Streak" />
+  <img width=420 src="https://github-readme-streak-stats.herokuapp.com?user=Tequila-Sunrise&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&" alt="GitHub Streak" />
 </div>
 
 ### 🧘‍♂️ About Me
@@ -64,7 +64,7 @@ B.Sc. Student, Data Science @ Fudan University
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/>
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/> -->
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
