@@ -14,7 +14,7 @@
   <h3>
     We're here to make a dent in the universe.
   </h3>
-  <img width=420 src="https://github-readme-streak-stats.herokuapp.com?user=Tequila-Sunrise&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&" alt="GitHub Streak" />
+  <img width=420 src="https://github-readme-streak-stats.herokuapp.com?user=Tequila-Sunrise&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&" alt="GitHub Streak" />
 </div>
 
 ### 🧘‍♂️ About Me
