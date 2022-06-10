@@ -34,7 +34,7 @@ B.Sc. Student, Data Science @ Fudan University
 </div>
 
 <div align="center">
-  <img width=320 src="https://readme-stats-iyoahs.vercel.app/api/top-langs/?username=Tequila-Sunrise&theme=gotham&count_private&exclude_repo=Tequila-Sunrise.github.io&langs_count=8&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
+  <img width=320 src="https://readme-stats-iyoahs.vercel.app/api/top-langs/?username=Tequila-Sunrise&theme=gotham&count_private&exclude_repo=Tequila-Sunrise.github.io&langs_count=10&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
 </div>
 
 ---
