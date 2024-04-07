@@ -21,7 +21,7 @@
 
 B.Sc. Student, Data Science @ Fudan University
 
-- 🔬 Currently indulged in Bandits and Online Learning.
+- 🔬 Currently indulged in Quaternion.
 - 🌱 I am further learning algorithms recently and wanna participate in product development within half a year.
 - 🔭 My life is like reinforcement learning, I am enjoying the journey of exploration and exploitation.
 
@@ -30,11 +30,11 @@ B.Sc. Student, Data Science @ Fudan University
 ### 🔥 My Stats
 
 <div align="center">
-  <img width=420 src="https://readme-stats-iyoahs.vercel.app/api?username=soyeonjourney&theme=gotham&count_private=true&show_icons=true&hide_border=false&hide_title=true&border_radius=10" alt="GitHub Stats" />
+  <img width=420 src="github-readme-stats-soyeon.vercel.app/api?username=soyeonjourney&theme=gotham&count_private=true&show_icons=true&hide_border=false&hide_title=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width=320 src="https://readme-stats-iyoahs.vercel.app/api/top-langs/?username=soyeonjourney&theme=gotham&count_private&exclude_repo=soyeonjourney.github.io&langs_count=10&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
+  <img width=320 src="github-readme-stats-soyeon.vercel.app/api/top-langs/?username=soyeonjourney&theme=gotham&count_private&exclude_repo=soyeonjourney.github.io&langs_count=10&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
 </div>
 
 ---
