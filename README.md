@@ -34,7 +34,7 @@ B.Sc. Student, Data Science @ Fudan University
 </div>
 
 <div align="center">
-  <img width=420 src="https://github-readme-stats-soyeon.vercel.app/api/top-langs/?username=soyeonjourney&theme=gotham&count_private&exclude_repo=soyeonjourney.github.io&langs_count=10&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
+  <img width=320 src="https://github-readme-stats-soyeon.vercel.app/api/top-langs/?username=soyeonjourney&theme=gotham&count_private&exclude_repo=soyeonjourney.github.io&langs_count=10&hide=css,jupyter%20notebook&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
 </div>
 
 ---
